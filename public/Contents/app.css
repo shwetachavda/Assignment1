@@ -1,1 +1,21 @@
 /* custom css file */
+
+body{
+    background-image: url(../images/backgrounds-portfolio-image-79815.jpg);
+}
+.carousel-caption{
+    font-size:70px;
+    position: absolute;
+    top: 70px;
+    color: #DAA520;
+}
+.jumbotron{
+    position: absolute;
+    width: 70%;
+    right: 3%;
+    top: 20%;
+    padding: 20px 10px 10px 10px;
+    color: slategrey;
+    font-family: comic sans ms;
+    
+}
